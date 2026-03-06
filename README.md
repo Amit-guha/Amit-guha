@@ -3,6 +3,14 @@ Hi 👋 I'm Amit Kumar Guha
 🚀 Android Developer | Kotlin Enthusiast
 <br>
 📱 Building modern, scalable, and user-friendly mobile applications 
+### 🛠 Tech Stack & Tools
+* Kotlin, Java, Jetpack Compose, XML, Android SDK  
+* Architecture: MVVM, MVI, Clean Architecture, SOLID Principles
+* Other Skills: Git, IntelliJ IDEA, Android Studio
+
+🌟 Passionate Open Source Contributor
+ <br>
+🤝 I'm always open to learning, growing, and tackling new challenges. Let’s connect and talk about exciting opportunities!
  
 <!--
 ## Hi there 👋
