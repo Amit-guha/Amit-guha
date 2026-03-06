@@ -1,5 +1,8 @@
 Hi 👋 I'm Amit Kumar Guha
-## Android Developer | Kotlin Enthusiast
+<br>
+🚀 Android Developer | Kotlin Enthusiast
+<br>
+📱 Building modern, scalable, and user-friendly mobile applications 
  
 <!--
 ## Hi there 👋
