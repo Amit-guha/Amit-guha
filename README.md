@@ -1,6 +1,6 @@
-
- Hi 👋 I'm Amit Kumar Guha
- Android Developer | Kotlin Enthusiast
+Hi 👋 I'm Amit Kumar Guha
+## Android Developer | Kotlin Enthusiast
+ 
 <!--
 ## Hi there 👋
 **Amit-guha/Amit-guha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
